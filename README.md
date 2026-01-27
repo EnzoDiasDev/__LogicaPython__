@@ -54,7 +54,7 @@ Os exercícios abordam desde conceitos básicos até estruturas mais avançadas,
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/EnzoDiasDev/__LogicaPython__
 
 2. Entre na pasta:
     ```bash
